@@ -1,8 +1,9 @@
 # hello-world
-just another repository
+public class HelloWorld1 {
 
-Hello People !!!
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello world!");
+	}
 
-Dito's here, trying to learn javascript here.
-
-Wish me luck 
+} 
